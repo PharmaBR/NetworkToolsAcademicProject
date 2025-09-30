@@ -30,6 +30,13 @@ Este software atende aos requisitos do Trabalho 01, implementando um analisador 
 - **Exemplos Interativos:** Calculadora de rede em tempo real
 - **Casos de Estudo:** Cenários práticos do mundo real
 
+### D) Aba do Professor (Exclusiva!)
+- **Análise Técnica Completa:** Código fonte detalhado
+- **Execução Passo a Passo:** Algoritmo explicado linha por linha
+- **Demonstração Interativa:** Todos os cálculos em tempo real
+- **Métricas de Performance:** Complexidade algorítmica
+- **Bateria de Testes:** Casos automáticos com resultados
+
 ## 🚀 Como Executar
 
 ### Versão CLI (Terminal)
@@ -117,26 +124,25 @@ O software inclui validações robustas:
 
 1. **Interface Dupla** - CLI + Web responsiva
 2. **Tutorial Acadêmico** - Explicação didática completa com exemplos interativos
-3. **Testes Completos** - 100% cobertura de funcionalidades
-4. **Git Estruturado** - Histórico organizado com commits semânticos
-5. **Documentação Rica** - Docstrings completas + README detalhado
-6. **Validações Robustas** - Tratamento completo de erros
-7. **Exemplos Práticos** - Arquivo demo.py com casos reais
-8. **Código Limpo** - Separação clara de responsabilidades
-9. **Calculadora Interativa** - Análise de rede em tempo real
-10. **Casos de Estudo** - Cenários práticos do mundo real
+3. **Aba do Professor** - Análise técnica detalhada do código fonte
+4. **Testes Completos** - 100% cobertura de funcionalidades
+5. **Git Estruturado** - Histórico organizado com commits semânticos
+6. **Documentação Rica** - Docstrings completas + README detalhado
+7. **Validações Robustas** - Tratamento completo de erros
+8. **Exemplos Práticos** - Arquivo demo.py com casos reais
+9. **Código Limpo** - Separação clara de responsabilidades
+10. **Calculadora Interativa** - Análise de rede em tempo real
+11. **Casos de Estudo** - Cenários práticos do mundo real
+12. **Execução Passo a Passo** - Demonstração técnica completa
 
 ## 👥 Equipe
 
-- **[Nome 1]** - 1º Semestre (obrigatório)
+- **[Nome 1]** - [Semestre]
 - **[Nome 2]** - [Semestre]
 - **[Nome 3]** - [Semestre]
-- **[Nome 4]** - [Semestre]
+- **[Karina Ribeiro Modesto]** - 1º Semestre (obrigatório)
 
 ## 📝 Licença
 
-Este projeto foi desenvolvido para fins acadêmicos como parte do Trabalho 01 da disciplina de Redes de Computadores.
+Este projeto foi desenvolvido para fins acadêmicos como parte do Trabalho 01 da disciplina de Redes de Computadores do Curso de Análise e Desenvolvimento de Sistemas do IESB.
 
----
-
-**Nota:** Todos os integrantes da equipe estão familiarizados com o código e preparados para responder perguntas durante a apresentação.

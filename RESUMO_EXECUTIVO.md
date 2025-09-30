@@ -20,20 +20,29 @@ python demo.py
 ```
 **Resultado:** Mostra TODAS as funcionalidades funcionando perfeitamente
 
-### **2. Interface Web - Tutorial Acadêmico (2min)**
+### **Min 2-4: Interface Web - Aba do Professor** 
 ```bash
 streamlit run web_app.py
 ```
 **Navegação:**
-1. Aba "Tutorial Acadêmico" → Conceitos fundamentais
-2. Demonstração passo a passo → Processo binário
-3. Calculadora interativa → Teste em tempo real
+1. Aba "👨‍🏫 Para o Professor" → **FOCO PRINCIPAL**
+2. Configurar IPs personalizados → Demonstração técnica
+3. Mostrar código fonte detalhado → Expandir seções
+4. Executar algoritmo passo a passo → Visualização binária
+5. Rodar bateria de testes → Todos passando
 
 ### **3. Finalização (30s)**
 - Mostrar histórico Git: `git log --oneline`
 - Destacar testes: `python test_network_utils.py`
 
 ## 🎓 **DIFERENCIAIS ÚNICOS**
+
+### ⭐ **ABA DO PROFESSOR (DIFERENCIAL EXCLUSIVO)**
+- **Nunca visto em trabalhos acadêmicos**
+- Código fonte detalhado função por função
+- Execução passo a passo em tempo real
+- Análise de performance e complexidade
+- Bateria de testes automáticos
 
 ### ⭐ **TUTORIAL ACADÊMICO INTERATIVO**
 - **Nunca visto em trabalhos acadêmicos**
@@ -47,10 +56,11 @@ streamlit run web_app.py
 - Documentação rica
 - Git com histórico organizado
 
-### ⭐ **TRÊS INTERFACES**
+### ⭐ **QUATRO INTERFACES ÚNICAS**
 1. **CLI** - Requisito básico
 2. **Web Analisador** - Ponto extra
-3. **Web Tutorial** - Diferencial único
+3. **Web Tutorial** - Diferencial educacional
+4. **Web Professor** - Diferencial técnico exclusivo
 
 ## 🔥 **FRASES-CHAVE PARA APRESENTAÇÃO**
 

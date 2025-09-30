@@ -141,28 +141,34 @@ networktools/
 
 ### 🎓 Roteiro Sugerido de Apresentação
 
-1. **Abertura (2 min)**
+1. **Abertura (1 min)**
    - Apresentar a equipe
    - Mostrar checklist de requisitos atendidos
 
-2. **Demonstração Rápida (3 min)**
+2. **Demonstração Rápida (2 min)**
    - Executar demo.py
    - Mostrar versão CLI funcionando
 
-3. **Interface Web - Tutorial Acadêmico (5 min)**
-   - Abrir aba "Tutorial Acadêmico"
-   - Explicar conceitos fundamentais
-   - Demonstrar processo binário passo a passo
-   - Mostrar calculadora interativa
+3. **Interface Web - Aba do Professor (5 min)**
+   - **FOCO PRINCIPAL:** Aba "👨‍🏫 Para o Professor"
+   - Mostrar código fonte detalhado
+   - Demonstrar execução passo a passo
+   - Executar bateria de testes automáticos
+   - Destacar métricas de performance
 
-4. **Aspectos Técnicos (3 min)**
-   - Mostrar testes unitários rodando
-   - Exibir histórico Git
-   - Destacar validações implementadas
+4. **Tutorial Acadêmico (2 min)**
+   - Mostrar aba educacional
+   - Calculadora interativa
 
-5. **Encerramento (2 min)**
-   - Recapitular diferenciais
-   - Abrir para perguntas
+5. **Aspectos Técnicos (2 min)**
+   - Histórico Git estruturado
+   - Validações implementadas
+
+6. **Encerramento (1 min)**
+   - Recapitular diferenciais únicos
+   - Abrir para perguntas técnicas
+
+**⭐ A aba do professor será o destaque da apresentação!**
 
 ---
 
