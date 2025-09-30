@@ -111,12 +111,15 @@ networktools/
 ## 🏆 Diferenciais Implementados
 
 1. **Interface Dupla** - CLI + Web
-2. **Testes Completos** - 100% cobertura
-3. **Git Estruturado** - 7 commits organizados
-4. **Documentação Rica** - Docstrings + README
-5. **Validações Robustas** - Tratamento de erros
-6. **Exemplos Práticos** - Arquivo demo.py
-7. **Código Limpo** - Separação de responsabilidades
+2. **Tutorial Acadêmico Interativo** - Explicação didática completa
+3. **Testes Completos** - 100% cobertura
+4. **Git Estruturado** - 8 commits organizados
+5. **Documentação Rica** - Docstrings + README
+6. **Validações Robustas** - Tratamento de erros
+7. **Exemplos Práticos** - Arquivo demo.py
+8. **Código Limpo** - Separação de responsabilidades
+9. **Calculadora Interativa** - Análise em tempo real
+10. **Casos de Estudo** - Cenários do mundo real
 
 ## 📋 Checklist Final
 
@@ -129,10 +132,37 @@ networktools/
 ## 🎯 Dicas para Apresentação
 
 1. **Comece pela demo.py** - Mostra tudo funcionando
-2. **Mostre os testes** - Prova robustez
-3. **Exiba o Git log** - Demonstra evolução
-4. **Use a versão web** - Visual impressiona
-5. **Prepare exemplos práticos** - Facilita demonstração
+2. **Use a aba "Tutorial Acadêmico"** - Demonstra conhecimento teórico
+3. **Mostre os testes** - Prova robustez
+4. **Exiba o Git log** - Demonstra evolução
+5. **Use a calculadora interativa** - Impressiona visualmente
+6. **Explique o processo binário** - Mostra domínio do conteúdo
+7. **Demonstre casos práticos** - Facilita compreensão
+
+### 🎓 Roteiro Sugerido de Apresentação
+
+1. **Abertura (2 min)**
+   - Apresentar a equipe
+   - Mostrar checklist de requisitos atendidos
+
+2. **Demonstração Rápida (3 min)**
+   - Executar demo.py
+   - Mostrar versão CLI funcionando
+
+3. **Interface Web - Tutorial Acadêmico (5 min)**
+   - Abrir aba "Tutorial Acadêmico"
+   - Explicar conceitos fundamentais
+   - Demonstrar processo binário passo a passo
+   - Mostrar calculadora interativa
+
+4. **Aspectos Técnicos (3 min)**
+   - Mostrar testes unitários rodando
+   - Exibir histórico Git
+   - Destacar validações implementadas
+
+5. **Encerramento (2 min)**
+   - Recapitular diferenciais
+   - Abrir para perguntas
 
 ---
 

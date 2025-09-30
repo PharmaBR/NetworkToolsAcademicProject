@@ -24,6 +24,12 @@ Este software atende aos requisitos do Trabalho 01, implementando um analisador 
 - **Entrada:** IP origem (fixo), IP destino, máscara CIDR
 - **Saída:** Indica se estão na mesma rede
 
+### C) Tutorial Acadêmico (Novo!)
+- **Explicação Didática:** Conceitos fundamentais de redes
+- **Demonstração Passo a Passo:** Como funciona a análise binária
+- **Exemplos Interativos:** Calculadora de rede em tempo real
+- **Casos de Estudo:** Cenários práticos do mundo real
+
 ## 🚀 Como Executar
 
 ### Versão CLI (Terminal)
@@ -106,6 +112,19 @@ O software inclui validações robustas:
 - ✅ **CIDR válido** - Range 0-32 bits
 - ✅ **Entradas numéricas** - Tratamento de erros
 - ✅ **Interface intuitiva** - Mensagens claras
+
+## 🏆 Diferenciais Implementados
+
+1. **Interface Dupla** - CLI + Web responsiva
+2. **Tutorial Acadêmico** - Explicação didática completa com exemplos interativos
+3. **Testes Completos** - 100% cobertura de funcionalidades
+4. **Git Estruturado** - Histórico organizado com commits semânticos
+5. **Documentação Rica** - Docstrings completas + README detalhado
+6. **Validações Robustas** - Tratamento completo de erros
+7. **Exemplos Práticos** - Arquivo demo.py com casos reais
+8. **Código Limpo** - Separação clara de responsabilidades
+9. **Calculadora Interativa** - Análise de rede em tempo real
+10. **Casos de Estudo** - Cenários práticos do mundo real
 
 ## 👥 Equipe
 
