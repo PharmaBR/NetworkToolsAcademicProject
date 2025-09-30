@@ -160,10 +160,10 @@ def analisador_principal():
         
         st.markdown("### 👥 Equipe")
         st.markdown("""
-        - [Nome 1] - 1º Semestre
+        - [Nome 1] - [Semestre]
         - [Nome 2] - [Semestre]
         - [Nome 3] - [Semestre]
-        - [Nome 4] - [Semestre]
+        - [Karina Ribeiro Modesto] - 1º Semestre (obrigatório)
         """)
 
 
