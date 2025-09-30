@@ -1,7 +1,7 @@
 # NetworkTools - Analisador de Redes IP
 
 **Trabalho 01 - Redes de Computadores**  
-**Autor:** [Seu Nome e Equipe]  
+**Autor:** Karina Ribeiro Modesto e equipe 
 **Data:** setembro/2025  
 
 ## 📋 Descrição
